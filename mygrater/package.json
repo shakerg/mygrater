@@ -1,0 +1,9 @@
+{
+  "type": "module",
+  "dependencies": {
+    "@octokit/core": "^6.1.2",
+    "@octokit/rest": "^19.0.0",
+    "punycode": "^2.3.1",
+    "simple-git": "^3.27.0"
+  }
+}
