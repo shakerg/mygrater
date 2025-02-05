@@ -1,7 +1,6 @@
 # Mygrater
 Yes, I know it's spelled wrong, that's on purpose.
 
-log
 ## Overview
 
 Mygrater is a tool designed to facilitate the migration of forks using JavaScript and the Octokit library. It simplifies the process of managing and migrating repositories and their forks between organizations on GitHub. The script automates tasks such as checking pull requests, cloning repositories, and migrating forks, making it easier to maintain and transfer codebases across different environments.
