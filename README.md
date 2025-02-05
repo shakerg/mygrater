@@ -1,6 +1,5 @@
 # Mygrater
 Yes, I know it's spelled wrong, that's on purpose.
-ssh
 
 ## Overview
 
